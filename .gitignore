@@ -1,0 +1,11 @@
+.vscode/
+moonraker_secrets.ini
+moonraker_secrets.json
+*.bkp
+*.backup
+printer*.cfg
+moonraker-obico.cfg
+*shaper_calibrate_*.png
+*/shaper_calibrate_*.png
+**/shaper_calibrate_*.png.git-credentials
+.git-credentials

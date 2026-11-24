@@ -1,0 +1,9 @@
+[credential]
+	helper = cache
+[user]
+	name = barecool
+	email = barecool@gmail.com
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
